@@ -22,12 +22,20 @@
 ![Non_Vine_Review_Count](https://user-images.githubusercontent.com/104707395/222545585-b3431cb7-b5dd-4f6c-88ac-c0176e87d87a.png)
 
 
-
-
 * Number of 5-Star Reviews
   * Amazon Vine: 56
   * Regular: 21,005
 
+![Vine_5_Star_Count](https://user-images.githubusercontent.com/104707395/222545740-40c41224-8c1d-4d77-b3d4-449c7430781b.png)
+
+![Non_Vine_5_Star_Count](https://user-images.githubusercontent.com/104707395/222545773-6fd1d570-f662-4f3f-9908-26db7479f22e.png)
+
+
 * Percentage of 5-Star Reviews
   * Amazon Vine: 52.3%
   * Regular: 52.7%
+
+![Vine_5_Star_Percent](https://user-images.githubusercontent.com/104707395/222545824-d4283589-c3d0-477e-a3bb-b2f09fb60332.png)
+
+![Non_Vine_5_Star_Percent](https://user-images.githubusercontent.com/104707395/222545852-b312ee7b-b259-4c51-8a65-0063edeeaebd.png)
+
