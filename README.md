@@ -14,13 +14,13 @@
 ## Results
 
 * Total Number of Reviews
-** Amazon Vine: 
-** Regular:
+  * Amazon Vine: 107
+  * Regular: 39,869
 
 * Number of 5-Star Reviews
-** Amazon Vine:
-** Regular:
+  * Amazon Vine: 56
+  * Regular: 21,005
 
 * Percentage of 5-Star Reviews
-** Amazon Vine:
-** Regular:
+  * Amazon Vine: 52.3%
+  * Regular: 52.7%
