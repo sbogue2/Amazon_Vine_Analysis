@@ -17,6 +17,13 @@
   * Amazon Vine: 107
   * Regular: 39,869
 
+![Vine_Review_Count](https://user-images.githubusercontent.com/104707395/222545547-92ab7c8e-6a28-41c0-bbe4-009721cb130c.png)
+
+![Non_Vine_Review_Count](https://user-images.githubusercontent.com/104707395/222545585-b3431cb7-b5dd-4f6c-88ac-c0176e87d87a.png)
+
+
+
+
 * Number of 5-Star Reviews
   * Amazon Vine: 56
   * Regular: 21,005
