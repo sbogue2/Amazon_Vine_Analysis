@@ -13,6 +13,8 @@
 
 ## Results
 
+### Number of Reviews
+
 * Total Number of Reviews
   * Amazon Vine: 107
   * Regular: 39,869
@@ -21,6 +23,7 @@
 
 ![Non_Vine_Review_Count](https://user-images.githubusercontent.com/104707395/222545585-b3431cb7-b5dd-4f6c-88ac-c0176e87d87a.png)
 
+### Number of 5-Star Reviews
 
 * Number of 5-Star Reviews
   * Amazon Vine: 56
@@ -30,6 +33,7 @@
 
 ![Non_Vine_5_Star_Count](https://user-images.githubusercontent.com/104707395/222545773-6fd1d570-f662-4f3f-9908-26db7479f22e.png)
 
+### Percentage of 5-Star Reviews
 
 * Percentage of 5-Star Reviews
   * Amazon Vine: 52.3%
@@ -39,3 +43,8 @@
 
 ![Non_Vine_5_Star_Percent](https://user-images.githubusercontent.com/104707395/222545852-b312ee7b-b259-4c51-8a65-0063edeeaebd.png)
 
+## Summary
+
+* The results of the analysis of this dataset shows that the probability of a reviewer leaving a 5-Star review is not influenced by whether or not they are a member of Amazon Vine. There is less than a percent difference between the percentage of 5-Star reviews left by both reviewer category. 
+
+* Further analysis to ensure that our conclusion is correct can be performed via statistical testing using a T-Test.
